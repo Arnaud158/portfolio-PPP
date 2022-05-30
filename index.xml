@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>http://example.org/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 23 May 2022 10:48:29 +0200</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Projet</title>
+      <link>http://example.org/categories/projet/</link>
+      <pubDate>Mon, 23 May 2022 10:48:29 +0200</pubDate>
+      
+      <guid>http://example.org/categories/projet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Projet3</title>
+      <link>http://example.org/projets/projet3/</link>
+      <pubDate>Mon, 16 May 2022 10:33:12 +0200</pubDate>
+      
+      <guid>http://example.org/projets/projet3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Projet2</title>
+      <link>http://example.org/projets/projet2/</link>
+      <pubDate>Mon, 16 May 2022 10:33:08 +0200</pubDate>
+      
+      <guid>http://example.org/projets/projet2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exemple d&#39;article</title>
+      <link>http://example.org/projets/projet1/</link>
+      <pubDate>Mon, 09 May 2022 10:30:36 +0200</pubDate>
+      
+      <guid>http://example.org/projets/projet1/</guid>
+      <description>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Voluptate placeat molestiae sequi nesciunt rem corporis sapiente autem, facere nobis sint, asperiores quia nam magni eius commodi est aspernatur soluta repudiandae. Quae voluptatibus sint eos expedita alias magni doloribus quam minima a nostrum. Vel reprehenderit inventore molestiae? Sapiente officiis aliquid, omnis odit vel expedita facilis officia, fuga soluta labore ex ipsa. Molestias maiores nihil dolorem! Eveniet cum perspiciatis, id dolore nesciunt doloribus sequi, ullam ipsa culpa saepe hic accusamus odio corporis, odit repellendus numquam est suscipit possimus sapiente quis fugiat consequatur?</description>
+    </item>
+    
+    <item>
+      <title>Premier_article</title>
+      <link>http://example.org/blog/premier_article/</link>
+      <pubDate>Mon, 25 Apr 2022 11:16:15 +0200</pubDate>
+      
+      <guid>http://example.org/blog/premier_article/</guid>
+      <description>TEst
+C&amp;rsquo;est nul à chier le front </description>
+    </item>
+    
+  </channel>
+</rss>
