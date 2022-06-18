@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Python on E-Portfolio</title>
+    <link>https://arnaud158.github.io/portfolio-PPP/categories/python/</link>
+    <description>Recent content in Python on E-Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Sat, 18 Jun 2022 21:33:39 +0200</lastBuildDate><atom:link href="https://arnaud158.github.io/portfolio-PPP/categories/python/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Jeu des alumettes</title>
+      <link>https://arnaud158.github.io/portfolio-PPP/projets/jeu-alumettes/</link>
+      <pubDate>Sat, 18 Jun 2022 21:33:39 +0200</pubDate>
+      
+      <guid>https://arnaud158.github.io/portfolio-PPP/projets/jeu-alumettes/</guid>
+      <description>Ce jeu des alumettes a été fait suite à un projet scolaire où on devait réaliser le jeu des alumettes en Python avec un affichage dans la console. J&amp;rsquo;ai réalisé ce projet pour me prendre la main avec la bibliothèque graphique PyGame de Python. Toutes les images utilisées sont libre de droit.</description>
+    </item>
+    
+  </channel>
+</rss>

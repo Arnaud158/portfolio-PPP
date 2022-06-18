@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
+    <title>Bienvenue sur mon e-Portfolio on E-Portfolio</title>
     <link>https://arnaud158.github.io/portfolio-PPP/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <description>Recent content in Bienvenue sur mon e-Portfolio on E-Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Mon, 23 May 2022 10:48:29 +0200</lastBuildDate><atom:link href="https://arnaud158.github.io/portfolio-PPP/index.xml" rel="self" type="application/rss+xml" />
+    <language>fr-fr</language>
+    <lastBuildDate>Mon, 23 May 2022 10:40:12 +0200</lastBuildDate><atom:link href="https://arnaud158.github.io/portfolio-PPP/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Projet</title>
-      <link>https://arnaud158.github.io/portfolio-PPP/categories/projet/</link>
-      <pubDate>Mon, 23 May 2022 10:48:29 +0200</pubDate>
+      <title>Jeu des alumettes</title>
+      <link>https://arnaud158.github.io/portfolio-PPP/projets/jeu-alumettes/</link>
+      <pubDate>Sat, 18 Jun 2022 21:33:39 +0200</pubDate>
       
-      <guid>https://arnaud158.github.io/portfolio-PPP/categories/projet/</guid>
-      <description></description>
+      <guid>https://arnaud158.github.io/portfolio-PPP/projets/jeu-alumettes/</guid>
+      <description>Ce jeu des alumettes a été fait suite à un projet scolaire où on devait réaliser le jeu des alumettes en Python avec un affichage dans la console. J&amp;rsquo;ai réalisé ce projet pour me prendre la main avec la bibliothèque graphique PyGame de Python. Toutes les images utilisées sont libre de droit.</description>
     </item>
     
     <item>
@@ -35,22 +35,12 @@
     </item>
     
     <item>
-      <title>Exemple d&#39;article</title>
+      <title>E-PortFolio</title>
       <link>https://arnaud158.github.io/portfolio-PPP/projets/projet1/</link>
       <pubDate>Mon, 09 May 2022 10:30:36 +0200</pubDate>
       
       <guid>https://arnaud158.github.io/portfolio-PPP/projets/projet1/</guid>
-      <description>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Voluptate placeat molestiae sequi nesciunt rem corporis sapiente autem, facere nobis sint, asperiores quia nam magni eius commodi est aspernatur soluta repudiandae. Quae voluptatibus sint eos expedita alias magni doloribus quam minima a nostrum. Vel reprehenderit inventore molestiae? Sapiente officiis aliquid, omnis odit vel expedita facilis officia, fuga soluta labore ex ipsa. Molestias maiores nihil dolorem! Eveniet cum perspiciatis, id dolore nesciunt doloribus sequi, ullam ipsa culpa saepe hic accusamus odio corporis, odit repellendus numquam est suscipit possimus sapiente quis fugiat consequatur?</description>
-    </item>
-    
-    <item>
-      <title>Premier_article</title>
-      <link>https://arnaud158.github.io/portfolio-PPP/blog/premier_article/</link>
-      <pubDate>Mon, 25 Apr 2022 11:16:15 +0200</pubDate>
-      
-      <guid>https://arnaud158.github.io/portfolio-PPP/blog/premier_article/</guid>
-      <description>TEst
-C&amp;rsquo;est nul à chier le front </description>
+      <description>Le site web sur lequel vous êtes est aussi un projet web. Ce site m&amp;rsquo;a permis d&amp;rsquo;acquérir des compétences tel que la mise en ligne d&amp;rsquo;un site web grâce à Git Pages, l&amp;rsquo;utilisation du CMS Hugo et du framework CSS Bulma.</description>
     </item>
     
   </channel>
